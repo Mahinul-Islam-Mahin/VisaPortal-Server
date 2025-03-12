@@ -105,5 +105,4 @@ accessed via:
 
 ---
 
-Built with 💙 and 🌍 by
-[Sarafat Karim](https://www.linkedin.com/in/sarafat-karim/)
+
